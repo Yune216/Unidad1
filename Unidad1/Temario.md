@@ -24,8 +24,9 @@ Los años 70 consideraron la introducción de los gráficos por computadora en e
 ### 1978.
 El laboratorio central deFísica Aplicada de la UniversidadJohn-Hopkins publica un trabajoque se convertiría en la obra "Matematicalelements for computer graphics" de DavidF. Rogers. Esta sucedió desde esemomento una de las disciplinas importantetanto para el trazado de línea como en larepresentación de objetos naturales. Lainformática gráfica se hizo presente en lagestión, la Medicina, la televisión, laindustria del espectáculo, los videojuegos,la industria fílmica, y así en todas lasdisciplinas científicas, Matemáticas, Aeronáuticas, Mecánicas y otras muchasesferas del conocimiento.
 
-### 1980 – 1990.
+- ###1980 – 1990.
 Turner Whitted publicó un artículo en el año 80 sobre un nuevo método de representación para simular superficies altamente reflexivas. Conocido hoy como raytracing.1999 – 2000. En 1993, la película Jurassic Park revoluciona los efectos visuales, al crear dinosaurios como nunca antes se habían visto, con la ayuda de las computadoras.
 
 ### 1999.
 La empresa Autodesk tiene 1.000.000 usuarios de AutoCAD LT y 100.000 3D Studio.*2000: Autodesk inicia la venta por Internet de AutoCAD 2000.*2001: Presentación versión AutoCAD 2002. Destacan la función de asociación de funciones de las dimensiones en el dibujo, el editor gráfico de atributos. La definición de bloques y un conversor de capas asociado a la funcionalidad del gestor de normas. Orientación hacia Internet.
+
