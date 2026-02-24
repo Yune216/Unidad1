@@ -86,7 +86,7 @@ La animación de personajes (personas, animales, robots) suele realizarse repres
 La diferencia entre HSV y HSL es que en HSV la saturación va del color puro al blanco, y en HSL la saturación va del color puro al gris medio, y el tono, en HSV va desde el negro al color, y en HSL va desde el negro al blanco. De ahí que HSL sea el que se utiliza más comúnmente en fotografía.
 
 ## Iluminacion de cubo 
-"C:\Users\108251\OneDrive\Imágenes\Capturas de pantalla\Captura de pantalla 2026-02-24 173655.png"
+![] "C:\Users\108251\OneDrive\Imágenes\Capturas de pantalla\Captura de pantalla 2026-02-24 173655.png"
 
 ## 1.5. Representación y trazo de líneas y polígonos.
 
