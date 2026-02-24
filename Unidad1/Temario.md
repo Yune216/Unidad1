@@ -66,3 +66,27 @@ La animación de materiales como el agua, el caucho y la nieve requiere métodos
 
 ### Ecuaciones diferenciales ordinarias
 La animación de personajes (personas, animales, robots) suele realizarse representándolos como un conjunto de objetos rígidos conectados por articulaciones. Por ejemplo, el brazo de una persona puede describirse como un segmento del brazo superior, un segmento del antebrazo y una articulación del codo que conecta estos dos segmentos. El movimiento de un personaje descrito de esta manera se rige por la integración numérica de Ecuaciones Diferenciales Ordinarias (EDO). Lamentablemente, un curso típico de EDO probablemente no ofrezca mucha ayuda en este aspecto, ya que se centran principalmente en soluciones simbólicas en lugar de numéricas. Un curso de métodos numéricos probablemente aborde los métodos numéricos relevantes (Euler directo, método del punto medio, integración implícita, Runge-Kutta, etc.).
+
+## 1.4 Modelos de color 
+
+### ¿Qué es un modelo de color?
+- Un modelo de color establece un conjunto de colores primarios a partir de los que, mediante mezclas, se pueden obtener otros colores hasta cubrir todo el espectro visible, además del propio blanco, negro y grises, y aún más. Por ejemplo, hay colores, como el marrón o el magenta, que no están presentes en el espectro visible, y es nuestro cerebro el que lo interpreta a partir de la combinación de ondas con diferentes longitudes.
+
+### Modelo RGB
+- El modelo RBG se utiliza cuando se representa color mediante haces de luz (pantallas o monitores). Un pixel en un monitor se representaría mediante tres subpíxeles o células: una roja, una verde y una azul, correspondiendo cada una a un LED o diodo emisor de luz del respectivo color.
+
+### Modelo CMYK
+
+- Es un modelo sustractivo y se utiliza en impresión a partir de pigmentos de tres colores básicos: C – cian, M – magenta y Y – amarillo. La K viene del negro, ya que la combinación de los tres anteriores produce un negro poco puro, de ahí que se añada al modelo un pigmento negro puro. Al contrario que en RGB, donde el negro es la ausencia de luz, en CMYK el blanco se representa aquí como ausencia de pigmentos.
+
+### Modelo HSV y HSL
+
+- Estos modelos incluyen otros dos parámetros adicionales al matiz o croma para obtener el color, que son la saturación (en ambos) y el valor (en HSV) o la luminosidad o tono (en HSL). De ahí sus siglas: HSL (H – hue o matiz, S – saturation o saturación, L – luminosity o luminosidad/tono), HSV (idem excepto V de value o valor).
+
+La diferencia entre HSV y HSL es que en HSV la saturación va del color puro al blanco, y en HSL la saturación va del color puro al gris medio, y el tono, en HSV va desde el negro al color, y en HSL va desde el negro al blanco. De ahí que HSL sea el que se utiliza más comúnmente en fotografía.
+
+## Iluminacion de cubo 
+"C:\Users\108251\OneDrive\Imágenes\Capturas de pantalla\Captura de pantalla 2026-02-24 173655.png"
+
+## 1.5. Representación y trazo de líneas y polígonos.
+
