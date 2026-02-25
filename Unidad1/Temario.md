@@ -106,3 +106,58 @@ Enseguida se va a las herramientas que aparecen a la derecha , donde esta la opc
 <img width="836" height="536" alt="Captura de pantalla 2026-02-24 175437" src="https://github.com/user-attachments/assets/b69ea379-996b-4436-a41b-d1bbe3b18e50" />
 
 - Se usaron funciones donde nos permite crear figuras en 2D y 3D a partir de figuras geometricas las cuales si se juntan crean diferentes figuras que pueden parecer divertidas al interactuar con ellas  
+
+ ## 1.5.1 Formatos de imagen.
+
+## ¿Qué son los formatos de archivo de imagen?
+- Los formatos de una imagen contienen la información en la que se detalla como se almacenan los datos relacionados con los gráficos en cuestión.
+
+Existen multitud de formatos de imágenes que, básicamente, se pueden dividir en dos grandes grupos: imágenes rasterizadas o de mapa de bits e imágenes vectoriales.
+
+### JPG o JPEG
+- Es uno de los formatos de imagen más conocidos y utilizados en el mundo web, ya que ofrece unas grandes prestaciones si comparamos la calidad ofertada en función del tamaño que puede llegar a tener un archivo de imagen de este tipo.
+
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/2ffc4e90-3218-48ba-93ee-0ed320aeb2f4" />
+
+### PNG
+- El archivo de imagen PNG es uno de los más utilizados y conocidos en el mundo del tratamiento de imágenes en internet.
+A pesar de seguir siendo un formato de imagen ráster, la gran diferencia en comparación a JPG es que este admite la compresión sin pérdidas.
+
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/da6b1806-ff70-419f-ad3b-91f8245c9e66" />
+
+### RAW
+- Los archivos con formato RAW hacen referencia a los datos de imagen que no han experimentado ningún proceso de compresión ni procesamiento. Este tipo de archivos son a los que los fotógrafos profesionales se refieren como brutos, es decir, recién capturados mediante diferentes dispositivos.
+
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/90119f8e-488f-4d91-9e22-f53997865ad8" />
+
+### BMP
+- Fue muy utilizado durante la década de su lanzamiento, ya que puede almacenar mapas de bits con una profundidad de color de 24 bits por píxel, lo que fue una revolución en su momento.
+
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d868fb39-c392-4567-ab1b-733e5f5c3b05" />
+
+## 1.6. Procesamiento de mapas de bits.  
+- El procesamiento de mapas de bits, también conocido como procesamiento de imágenes binarias o procesamiento de imágenes en blanco y negro, es una disciplina fundamental en el campo  de  la  visión  por  computadora  y  la  manipulación  de  imágenes.  En  este  tipo  de procesamiento, se trabaja con imágenes que consisten en una cuadrícula de píxeles, donde cada píxel puede tener uno de dos valores posibles: blanco (representado comúnmente como 0) o negro (representado como 1).
+
+Los mapas de bits se utilizan en una amplia gama de aplicaciones, desde la mejora de imágenes médicas y forenses hasta la segmentación de objetos en imágenes, la detección de bordes, el reconocimiento de patrones y la compresión de imágenes. Esta técnica es especialmente valiosa cuando  se  trata  de  imágenes  en  las  que  la  información es principalmente  binaria  o  donde  la presencia o ausencia de detalles específicos es crucial.
+
+- Mapa de bits Un mapa de bits es un formato utilizado para representar imágenes de manera digital. Este formato se compone de una estructura rectangular conformada por píxeles o puntos de color que crean una imagen. El número de píxeles en las dimensiones horizontal y vertical determina el tamaño de la imagen, y cada píxel tiene asignado un rango de valores de color.
+
+### Características de un mapa de bits
+
+- 1.Composición mediante píxeles o cuadrados mínimos de información de color. A diferencia de una imagen vectorizada, en un mapa de bits, cada punto de color que se representa en la imagen debe contar con la correspondiente información del color. Esta distinción es de gran importancia para comprender la naturaleza de los mapas de bits y distinguirlos de otros formatos  gráficos.  Imagen 2 Visualización de pixeles con profundidad de color  
+- 2. Variedad de usos, siendo más comunes en imágenes de fotografía o arte plano. Son ideales cuando se necesita trabajar con fotografías que requieren un alto nivel de detalle o con imágenes  escaneadas.  Para  obtener  imágenes  en  este  formato,  se  emplean  dispositivos  que permiten la conversión de señales analógicas a digitales, como cámaras digitales o escáneres. Esto marca  una  distinción  significativa  con  respecto  a  las  imágenes  vectoriales,  que  se  utilizan principalmente en la creación de ilustraciones, logotipos u otros elementos destinados a entornos web. 
+- 3. Dimensión y la calidad de las imágenes de este tipo. Cuando se modifica o altera la dimensión  de  una  imagen  de  mapa  de  bits,  es  probable  que  se  experimente  una  pérdida considerable en la calidad del trabajo final. Esta desventaja representa un punto crucial a tener en cuenta al trabajar con imágenes de mapas de bits. 
+
+### Utilidad de un mapa de bits
+
+- 1. Fotografía  Digital:  Las  imágenes  fotográficas  digitales  se  representan comúnmente como mapas de bits, permitiendo capturar y mostrar una amplia gama de detalles y colores en las fotos.
+- 2. Diseño  Gráfico:  Se  usan  en  el  diseño  gráfico  para  crear  ilustraciones, logotipos,  imágenes  publicitarias  y  elementos  visuales  que  requieren  alta  precisión  y realismo.
+- 3. Juegos: Los videojuegos a menudo utilizan mapas de bits para representar personajes, escenarios y elementos visuales, logrando gráficos detallados y efectos visuales impactantes.
+- 4. Edición de Imágenes: Herramientas de edición como Photoshop se basan en mapas de bits para retocar y manipular fotos y gráficos.
+- 5. Escaneo de Documentos: Al escanear documentos o fotografías impresas, se generan archivos de mapa de bits que representan la información visual capturada.
+- 6. Iconos  y  Botones  en  Interfaces  de  Usuario:  Los  iconos  y  botones  en aplicaciones y sitios web suelen ser imágenes de mapa de bits.
+- 7. Medios  Sociales  y  Sitios  Web:  Las  imágenes  compartidas  en  medios sociales  y  sitios  web  a  menudo  son  mapas  de  bits,  incluyendo  fotografías,  gráficos  e ilustraciones.
+
+
+##REFERENCIAS BIBLIOGRAFICAS (FORMATO APA) 
+- Díaz, O. (2024, 1 julio). Formatos de imagen: JPG, PNG, GIF, WEBP, JPEG, etc. Raiola Networks - Dominios y Alojamiento Web de Calidad. https://raiolanetworks.com/blog/formatos-imagen/
