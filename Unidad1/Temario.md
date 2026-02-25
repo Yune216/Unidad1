@@ -125,6 +125,9 @@ A pesar de seguir siendo un formato de imagen ráster, la gran diferencia en com
 
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/da6b1806-ff70-419f-ad3b-91f8245c9e66" />
 
+
+<img width="285" height="235" alt="Captura de pantalla 2026-02-24 173944" src="https://github.com/user-attachments/assets/ec23709e-4c3a-4147-bd09-d3923aef7684" />
+
 ### RAW
 - Los archivos con formato RAW hacen referencia a los datos de imagen que no han experimentado ningún proceso de compresión ni procesamiento. Este tipo de archivos son a los que los fotógrafos profesionales se refieren como brutos, es decir, recién capturados mediante diferentes dispositivos.
 
