@@ -87,16 +87,22 @@ La diferencia entre HSV y HSL es que en HSV la saturación va del color puro al 
 
 ## Iluminacion de cubo 
 <img width="886" height="381" alt="Captura de pantalla 2026-02-24 173655" src="https://github.com/user-attachments/assets/b2d5e6bd-482d-451f-a8aa-f06ed910cee1" />
+
 Al crear el cubo se crea sin color 
+
 Enseguida se va a las herramientas que aparecen a la derecha , donde esta la opcion de cambiar de color muy facil 
+
 <img width="238" height="381" alt="Captura de pantalla 2026-02-24 174029" src="https://github.com/user-attachments/assets/13e97622-e088-4b96-96cb-9a39680f11f0" />
 
 
 
 ## 1.5. Representación y trazo de líneas y polígonos.
 - Creacion del poligono
+
 <img width="994" height="385" alt="Captura de pantalla 2026-02-24 175403" src="https://github.com/user-attachments/assets/7c31faa1-07f7-4246-a6f6-9b5ed8eca3c9" />
+
 - Creacion de la flor de la vida
+
 <img width="836" height="536" alt="Captura de pantalla 2026-02-24 175437" src="https://github.com/user-attachments/assets/b69ea379-996b-4436-a41b-d1bbe3b18e50" />
 
 - Se usaron funciones donde nos permite crear figuras en 2D y 3D a partir de figuras geometricas las cuales si se juntan crean diferentes figuras que pueden parecer divertidas al interactuar con ellas  
