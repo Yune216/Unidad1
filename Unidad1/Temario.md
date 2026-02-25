@@ -94,7 +94,7 @@ Enseguida se va a las herramientas que aparecen a la derecha , donde esta la opc
 
 <img width="238" height="381" alt="Captura de pantalla 2026-02-24 174029" src="https://github.com/user-attachments/assets/13e97622-e088-4b96-96cb-9a39680f11f0" />
 
-
+<img width="285" height="235" alt="Captura de pantalla 2026-02-24 173944" src="https://github.com/user-attachments/assets/ec23709e-4c3a-4147-bd09-d3923aef7684" />
 
 ## 1.5. Representación y trazo de líneas y polígonos.
 - Creacion del poligono
@@ -124,9 +124,6 @@ Existen multitud de formatos de imágenes que, básicamente, se pueden dividir e
 A pesar de seguir siendo un formato de imagen ráster, la gran diferencia en comparación a JPG es que este admite la compresión sin pérdidas.
 
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/da6b1806-ff70-419f-ad3b-91f8245c9e66" />
-
-
-<img width="285" height="235" alt="Captura de pantalla 2026-02-24 173944" src="https://github.com/user-attachments/assets/ec23709e-4c3a-4147-bd09-d3923aef7684" />
 
 ### RAW
 - Los archivos con formato RAW hacen referencia a los datos de imagen que no han experimentado ningún proceso de compresión ni procesamiento. Este tipo de archivos son a los que los fotógrafos profesionales se refieren como brutos, es decir, recién capturados mediante diferentes dispositivos.
